@@ -16,15 +16,15 @@
 //                                                                                                      //
 //══════════════════════════════════════════════════════════════════════════════════════════════════════//
 *
-   * @project_name : Suhail-Md
-   * @author : Suhail Tech Info
-   * @youtube : https://www.youtube.com/@SuhailTechInfo
-   * @description : Suhail-Md ,A Multi-functional whatsapp user bot.
+   * @project_name : Msela_Paka_Md
+   * @author : Fredie Tech Info
+   * @youtube : https://www.youtube.com/@freeonlinetvT1Info
+   * @description : Msela_Paka_Md ,A Multi-functional whatsapp user bot.
    * @version 1.3.0
 *
 * 
-   * Created By Suhail Tech Info.
-   * © 2024 Suhail-Md.
+   * Created By Fredie Tech Info.
+   * © 2024 Msela_Paka_Md.
  ⛥┌┤
  */
  
@@ -36,12 +36,12 @@
   let { fancytext, tlang, tiny,bot_,alive, runtime, formatp, smsg ,getAdmin , send , react ,botpic,sleep, getBuffer ,prefix, sck1,smd,sck ,getTime ,formatDate  , groupdb,smdJson,smdBuffer, isAdmin  } = require("../lib");
   const long = String.fromCharCode(8206)
   const readmore = long.repeat(4001)
-  const sᴜʜᴀɪʟ_ᴍᴅ = require('../lib/plugins')
+  const MSELA_PAKA_ᴍᴅ = require('../lib/plugins')
   const { Sticker, createSticker, StickerTypes } = require("wa-sticker-formatter");
   const axios = require('axios')
   const fetch = require("node-fetch");
   const util = require("util");
-  const events = sᴜʜᴀɪʟ_ᴍᴅ;
+  const events = MSELA_PAKA_ᴍᴅ;
   const { commands } = require('../lib');
   const { exec } = require("child_process")
   const translatte = require("translatte");
@@ -53,7 +53,7 @@
 /*
 let "USER_IMAGES" = {
       "description": "Put IMAGES/VIDEOS URL, Make Sure Url have extention like .mp4,.jpg,.png etc",
-      "value": "https://telegra.ph/file/522d399d03e2b682a6938.mp4",
+      "value": "https://telegra.ph/file/483b763f64d338bb606e9.mp4",
       "required" :false
     },
 */
