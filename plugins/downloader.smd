@@ -16,20 +16,20 @@
 //                                                                                                      //
 //══════════════════════════════════════════════════════════════════════════════════════════════════════//
 *
-   * @project_name : Suhail-Md
-   * @author : Suhail Tech Info
-   * @youtube : https://www.youtube.com/@SuhailTechInfo
+   * @project_name : Fredi-Md
+   * @author : Fredi Tech Info
+   * @youtube : https://www.youtube.com/@freeonlinetvT1Info
    * @description : Suhail-Md ,A Multi-functional whatsapp user bot.
    * @version 1.2.8
 *
 * 
-   * Created By Suhail Tech Info.
-   * © 2024 Suhail-Md.
+   * Created By Fredie Tech Info.
+   * © 2024 Fredi-Md.
 */
 
 
 
-let Suhail_Md = "Suhail MD Whatsapp bot md"
+let Fredi_Md = "Suhail MD Whatsapp bot md"
 let baseApi = process.env.API_SMD || global.api_smd || "https://api-smd-1.vercel.app"
 // let baseApi= 'https://api-smd.vercel.app';
 
