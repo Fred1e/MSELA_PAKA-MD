@@ -16,10 +16,10 @@
 //                                                                                                      //
 //══════════════════════════════════════════════════════════════════════════════════════════════════════//
 *
-   * @project_name : Suhail-Md
-   * @author : Suhail Tech Info
-   * @youtube : https://www.youtube.com/@SuhailTechInfo
-   * @description : Suhail-Md ,A Multi-functional whatsapp user bot.
+   * @project_name : Fredi-Md
+   * @author : Fredie Tech Info
+   * @youtube : https://www.youtube.com/@freeonlinetvT1Info
+   * @description : Fedi_Md ,A Multi-functional whatsapp user bot.
    * @version 1.2.8
 *
 * 
@@ -113,7 +113,7 @@ smd({
     try{
         let mm =   m.image ? m : m.reply_message && m.reply_message.image ? m.reply_message : false; 
         
-  let too = `*Separate the text with _:_ sign!*\n*Example : ${prefix + smd} Suhail _:_ Bot*`
+  let too = `*Separate the text with _:_ sign!*\n*Example : ${prefix + smd} Fredi _:_ Bot*`
   if(!mm) {
     let str = `┌───〘 *ᴇᴅɪᴛᴏʀ ᴍᴇɴᴜ*  〙───✬
 ❂╭─────────────···✬
