@@ -19,7 +19,7 @@
 *```
    * @project_name : Suhail-Md
    * @author : Suhail Tech Info
-   * @youtube : https://www.youtube.com/@SuhailTechInfo
+   * @youtube : https://www.youtube.com/@freeonlinetvT1Info
    * @description : Suhail-Md ,A Multi-functional whatsapp user bot.
    * @version 1.2.8
 *
@@ -30,7 +30,7 @@
 
 
 
-let Suhail_Md = "Suhail MD Whatsapp bot md"
+let Suhail_Md = "Msela Paka MD Whatsapp bot md"
 let {smd , prefix,Config} = require("../lib")
 
 // ============================ CHATS SETTINGS ============================ 
