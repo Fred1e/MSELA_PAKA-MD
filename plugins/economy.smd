@@ -16,9 +16,9 @@
 //                                                                                                      //
 //══════════════════════════════════════════════════════════════════════════════════════════════════════//
 *
-   * @project_name : Suhail-Md
-   * @author : Suhail Tech Info
-   * @youtube : https://www.youtube.com/@SuhailTechInfo
+   * @project_name : Fredi_Md
+   * @author : Fredie Tech Info
+   * @youtube : https://www.youtube.com/@freeonlinetvT1Info
    * @description : Suhail-Md ,A Multi-functional whatsapp user bot.
    * @version 1.2.8
 *
@@ -250,7 +250,7 @@ async(message,match) => {
        const code = value[1];
        let d = parseInt(word)
        if (!d) return message.reply("check your text plz u r using the command in a wrong way👀");
-       const balance = await eco.balance(user1, "Suhail");
+       const balance = await eco.balance(user1, "Fredie");
        let a = (balance.wallet) < parseInt(word)
        //Returns wallet, bank, and bankCapacity. Also creates a USer if it doesn't exist.
        if(a == true) return message.reply("you dont have sufficient money to transfer👎");
