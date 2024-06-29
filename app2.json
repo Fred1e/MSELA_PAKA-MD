@@ -1,15 +1,15 @@
 {
-  "name": "Blackpanthermd@1.3.1",
-  "description": "I am Black-panther-md Whatsapp Chuddy Buddy built in NodeJs to make experience better\n\t if Any Problem : https://www.youtube.com/@ibrahimmdgpt",
+  "name": "Mselapakamd@1.3.1",
+  "description": "I am Msela_paka_md Whatsapp Chuddy Buddy built in NodeJs to make experience better\n\t if Any Problem : https://www.youtube.com/@freeonlinetvT1",
   "logo": "https://telegra.ph/file/cc3c025bb976c10f04e40.jpg",
-  "keywords": ["whatsappbot", "suhailMd", "suhail Md bot", "Suhail-Md", "SuhailMdWhatsaooBot", "SuhailWaBot","SuhailMD","Suhail Md Whatsapp Bot","multi device"],
-  "success_url": "/suhail/",
+  "keywords": ["whatsappbot", "FrediMd", "Fredi Md bot", "Fredi-Md", "FrediMdWhatsaooBot", "FrediWaBot","FrediMD","Fredi Md Whatsapp Bot","multi device"],
+  "success_url": "/Fredi/",
   "app_url": "/qr/",
   
   "env": {
     "OWNER_NAME": {
       "description": "Name for Bot Owner",    
-      "value": "Ibrahim Adams",
+      "value": "Fredi Ezra",
       "required" :true
     },   
      
@@ -27,17 +27,17 @@
     "BOT_NAME": {
       "description": " NAME FOR BOT",
       "required" :false,    
-      "value": "𝗕𝗟𝗔𝗖𝗞-𝗣𝗔𝗡𝗧𝗛𝗘𝗥-𝗠𝗗"
+      "value": "MSELA-PAKA-𝗠𝗗"
     }, 
     "USER_IMAGES": {
       "description": "Image for bot",
       "required" :false,    
-      "value": "https://telegra.ph/file/cc3c025bb976c10f04e40.jpg,https://telegra.ph/file/522d399d03e2b682a6938.mp4"
+      "value": "https://telegra.ph/file/4b6a6c37cc8f928649725.jpg,https://telegra.ph/file/483b763f64d338bb606e9.mp4"
     }, 
     "TZ": 
       "description": "put TIME_ZONE according to your location",
       "required" :false,    
-      "value": "Africa/Nairobi"
+      "value": "Africa/Dar Es Salam"
     },  
     "FLUSH": {
       "description": " Make it 'true' if bot connected but not responed (After deployement!)",
@@ -100,7 +100,7 @@
     },
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-      "value": "25471077266"
+      "value": "255764182801"
     },
     "SESSION_ID": {
       "description": "put your SESSION_ID here.",
@@ -113,7 +113,7 @@
       "required" :false
     }, 
     "ELEVENLAB_API_KEY": {
-      "description": "Put your ElevenLab api key here for Aitts. Watch tutorial from https://youtu.be/HCDcdPtkwg4 ",
+      "description": "Put your ElevenLab api key here for Aitts. Watch tutorial from https://youtu.be/es0ULif7Nq8 ",
       "value": "",
       "required" :false
     }, 
@@ -128,7 +128,7 @@
     },
     "PACK_NAME": {
       "description": "Put Sticker Pack_Name.",
-      "value": "Suhail Md",
+      "value": "Paka Md",
       "required": false 
     },
     "PACK_AUTHER": {
